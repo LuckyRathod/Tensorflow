@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Lucky_Rathod\\Desktop\\Udemy Courses\\Complete Tensorflow\\Original Notes\\Tensorflow-Bootcamp-master\\02-TensorFlow-Basics\\new_models_lucky\\my_second_model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Lucky_Rathod\\Desktop\\Udemy Courses\\Complete Tensorflow\\Original Notes\\Tensorflow-Bootcamp-master\\02-TensorFlow-Basics\\new_models_lucky\\my_second_model.ckpt"
