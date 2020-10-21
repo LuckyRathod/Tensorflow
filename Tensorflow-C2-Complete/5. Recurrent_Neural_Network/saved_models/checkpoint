@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Lucky_Rathod\\Desktop\\Udemy Courses\\Complete Tensorflow\\Original Notes\\Tensorflow-Bootcamp-master\\04-Recurrent-Neural-Networks\\saved_models\\rnn_time_series_model"
+all_model_checkpoint_paths: "C:\\Users\\Lucky_Rathod\\Desktop\\Udemy Courses\\Complete Tensorflow\\Original Notes\\Tensorflow-Bootcamp-master\\04-Recurrent-Neural-Networks\\saved_models\\rnn_time_series_model"
