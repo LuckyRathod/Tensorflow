@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Lucky_Rathod\\Desktop\\Udemy Courses\\Complete Tensorflow\\Original Notes\\Tensorflow-Bootcamp-master\\05-Autoencoders\\mnist_model_saved\\stacked_autoencoder.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Lucky_Rathod\\Desktop\\Udemy Courses\\Complete Tensorflow\\Original Notes\\Tensorflow-Bootcamp-master\\05-Autoencoders\\mnist_model_saved\\stacked_autoencoder.ckpt"
